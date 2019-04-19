@@ -16,4 +16,6 @@ API: http://localhost:5555/random
 
 
 
-> 项目引自： https://github.com/Python3WebSpider/ProxyPool
+> 项目引自： https://github.com/Python3WebSpider/ProxyPool 
+
+> 略修正 redis版本由2.10.5改为2.10.6 否则项目运行会报错
